@@ -1,0 +1,27 @@
+
+# sublime-text project config
+.tags
+.tags_sorted_by_file
+Multi-Fvm.sublime-project
+Multi-Fvm.sublime-workspace
+
+# directions
+data_in/
+data_out/
+err/
+figure/
+obj/
+report/
+
+# obj files
+*.o
+
+# mod files
+*.mod
+
+# output files
+*.out
+
+# other files
+fort.11
+fort.12
